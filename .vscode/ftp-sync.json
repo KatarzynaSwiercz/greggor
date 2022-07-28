@@ -1,0 +1,30 @@
+{
+    "remotePath": "./",
+    "host": "192.166.218.3",
+    "username": "kasia@swierczkacper.pl",
+    "password": "UocP5NKGK",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.env",
+        "\\vendor",
+        "\\node_modules",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}
